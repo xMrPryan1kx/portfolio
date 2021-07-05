@@ -1,0 +1,430 @@
+{
+  "url": "https://pvz.zendesk.com/api/v2/tickets/167.json",
+  "id": 167,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "matskevna@yandex.ru",
+        "name": "КАЛУГА_29"
+      },
+      "to": {
+        "name": "OZON",
+        "address": "support@pvz.zendesk.com"
+      },
+      "rel": null
+    },
+    "id": 4
+  },
+  "created_at": "2020-02-11T12:53:04.000Z",
+  "updated_at": "2020-02-18T10:05:56.000Z",
+  "type": "incident",
+  "subject": "ВЕРНИТЕ ГРУЗ",
+  "raw_subject": "ВЕРНИТЕ ГРУЗ",
+  "description": "Добрый день, коллеги. Ждем обратной связи по вопросу возврата заказа другой ТК. Напоминая содержание обращения: С возвратной перевозкой № 006415399 от 30.12.19 Курьером был забран заказ ТК Boxberry на имя Сидоров Дмитрий Геннадьевич №000041190696100001 Просим срочно вернуть данный заказ обратно на ПВЗ Калуга_29Возвратная накладная уже обработанна, а груза нашего, так и нет.",
+  "priority": "high",
+  "status": "closed",
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [],
+  "custom_fields": [
+    {
+      "id": 360008570379,
+      "value": null
+    },
+    {
+      "id": 360008570299,
+      "value": null
+    },
+    {
+      "id": 360008570099,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "fields": [
+    {
+      "id": 360008570379,
+      "value": null
+    },
+    {
+      "id": 360008570299,
+      "value": null
+    },
+    {
+      "id": 360008570099,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360000922979,
+  "metric_set": {
+    "url": "https://pvz.zendesk.com/api/v2/ticket_metrics/364602365279.json",
+    "id": 364602365279,
+    "ticket_id": 167,
+    "created_at": "2020-02-11T12:53:04.000Z",
+    "updated_at": "2020-02-14T09:42:10.000Z",
+    "group_stations": 1,
+    "assignee_stations": 1,
+    "reopens": 0,
+    "replies": 2,
+    "assignee_updated_at": "2020-02-13T06:47:10.000Z",
+    "requester_updated_at": "2020-02-13T07:39:31.000Z",
+    "status_updated_at": "2020-02-18T10:05:56.000Z",
+    "initially_assigned_at": "2020-02-13T06:47:10.000Z",
+    "assigned_at": "2020-02-13T06:47:10.000Z",
+    "solved_at": "2020-02-14T09:42:09.000Z",
+    "latest_comment_added_at": "2020-02-14T09:42:09.000Z",
+    "reply_time_in_minutes": {
+      "calendar": 2514,
+      "business": 2514
+    },
+    "first_resolution_time_in_minutes": {
+      "calendar": 4129,
+      "business": 4129
+    },
+    "full_resolution_time_in_minutes": {
+      "calendar": 4129,
+      "business": 4129
+    },
+    "agent_wait_time_in_minutes": {
+      "calendar": 52,
+      "business": 52
+    },
+    "requester_wait_time_in_minutes": {
+      "calendar": 4077,
+      "business": 4077
+    },
+    "on_hold_time_in_minutes": {
+      "calendar": 0,
+      "business": 0
+    }
+  },
+  "dates": {
+    "assignee_updated_at": "2020-02-13T06:47:10.000Z",
+    "requester_updated_at": "2020-02-13T07:39:31.000Z",
+    "status_updated_at": "2020-02-18T10:05:56.000Z",
+    "initially_assigned_at": "2020-02-13T06:47:10.000Z",
+    "assigned_at": "2020-02-13T06:47:10.000Z",
+    "solved_at": "2020-02-14T09:42:09.000Z",
+    "latest_comment_added_at": "2020-02-14T09:42:09.000Z"
+  },
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "generated_timestamp": 1582020356,
+  "submitter": {
+    "id": 367564935899,
+    "url": "https://pvz.zendesk.com/api/v2/users/367564935899.json",
+    "name": "КАЛУГА_29",
+    "email": "matskevna@yandex.ru",
+    "created_at": "2020-02-10T11:19:57.000Z",
+    "updated_at": "2020-02-11T12:53:03.000Z",
+    "time_zone": "Baghdad",
+    "iana_time_zone": "Asia/Baghdad",
+    "phone": null,
+    "shared_phone_number": null,
+    "photo": null,
+    "locale_id": 27,
+    "locale": "ru",
+    "organization_id": null,
+    "role": "end-user",
+    "verified": false,
+    "external_id": null,
+    "tags": [],
+    "alias": null,
+    "active": true,
+    "shared": false,
+    "shared_agent": false,
+    "last_login_at": null,
+    "two_factor_auth_enabled": false,
+    "signature": null,
+    "details": "",
+    "notes": "",
+    "role_type": null,
+    "custom_role_id": null,
+    "moderator": false,
+    "ticket_restriction": "requested",
+    "only_private_comments": false,
+    "restricted_agent": true,
+    "suspended": false,
+    "chat_only": false,
+    "default_group_id": null,
+    "report_csv": false,
+    "user_fields": {}
+  },
+  "requester": {
+    "id": 367564935899,
+    "url": "https://pvz.zendesk.com/api/v2/users/367564935899.json",
+    "name": "КАЛУГА_29",
+    "email": "matskevna@yandex.ru",
+    "created_at": "2020-02-10T11:19:57.000Z",
+    "updated_at": "2020-02-11T12:53:03.000Z",
+    "time_zone": "Baghdad",
+    "iana_time_zone": "Asia/Baghdad",
+    "phone": null,
+    "shared_phone_number": null,
+    "photo": null,
+    "locale_id": 27,
+    "locale": "ru",
+    "organization_id": null,
+    "role": "end-user",
+    "verified": false,
+    "external_id": null,
+    "tags": [],
+    "alias": null,
+    "active": true,
+    "shared": false,
+    "shared_agent": false,
+    "last_login_at": null,
+    "two_factor_auth_enabled": false,
+    "signature": null,
+    "details": "",
+    "notes": "",
+    "role_type": null,
+    "custom_role_id": null,
+    "moderator": false,
+    "ticket_restriction": "requested",
+    "only_private_comments": false,
+    "restricted_agent": true,
+    "suspended": false,
+    "chat_only": false,
+    "default_group_id": null,
+    "report_csv": false,
+    "user_fields": {}
+  },
+  "assignee": {
+    "id": 366874783319,
+    "url": "https://pvz.zendesk.com/api/v2/users/366874783319.json",
+    "name": "Support_PVZ",
+    "email": "apvzsupport@ozon.ru",
+    "created_at": "2020-01-20T13:53:08.000Z",
+    "updated_at": "2021-07-04T12:16:20.000Z",
+    "time_zone": "Baghdad",
+    "iana_time_zone": "Asia/Baghdad",
+    "phone": null,
+    "shared_phone_number": null,
+    "photo": {
+      "url": "https://pvz.zendesk.com/api/v2/attachments/360103174779.json",
+      "id": 360103174779,
+      "file_name": "p1_2645855_afb13cec.jpg",
+      "content_url": "https://pvz.zendesk.com/system/photos/360103174779/p1_2645855_afb13cec.jpg",
+      "mapped_content_url": "https://pvz.zendesk.com/system/photos/360103174779/p1_2645855_afb13cec.jpg",
+      "content_type": "image/jpeg",
+      "size": 1025,
+      "width": 80,
+      "height": 80,
+      "inline": false,
+      "deleted": false,
+      "thumbnails": [
+        {
+          "url": "https://pvz.zendesk.com/api/v2/attachments/360103174799.json",
+          "id": 360103174799,
+          "file_name": "p1_2645855_afb13cec_thumb.jpg",
+          "content_url": "https://pvz.zendesk.com/system/photos/360103174779/p1_2645855_afb13cec_thumb.jpg",
+          "mapped_content_url": "https://pvz.zendesk.com/system/photos/360103174779/p1_2645855_afb13cec_thumb.jpg",
+          "content_type": "image/jpeg",
+          "size": 570,
+          "width": 32,
+          "height": 32,
+          "inline": false,
+          "deleted": false
+        }
+      ]
+    },
+    "locale_id": 27,
+    "locale": "ru",
+    "organization_id": 363861914559,
+    "role": "agent",
+    "verified": true,
+    "external_id": null,
+    "tags": [],
+    "alias": "Support",
+    "active": true,
+    "shared": false,
+    "shared_agent": false,
+    "last_login_at": "2021-07-04T12:16:17.000Z",
+    "two_factor_auth_enabled": null,
+    "signature": "Техническая поддержка ПВЗ\n8 (800) 505-85-26\n7 (495) 225-23-92",
+    "details": "",
+    "notes": "",
+    "role_type": null,
+    "custom_role_id": null,
+    "moderator": false,
+    "ticket_restriction": "groups",
+    "only_private_comments": false,
+    "restricted_agent": true,
+    "suspended": false,
+    "chat_only": false,
+    "default_group_id": 360002048579,
+    "report_csv": false,
+    "user_fields": {}
+  },
+  "collaborator": [],
+  "recipient": "support@pvz.zendesk.com",
+  "group": {
+    "url": "https://pvz.zendesk.com/api/v2/groups/360002048579.json",
+    "id": 360002048579,
+    "name": "Support",
+    "description": "APVZ",
+    "default": true,
+    "deleted": false,
+    "created_at": "2019-12-20T12:47:48.000Z",
+    "updated_at": "2020-01-17T08:38:38.000Z"
+  },
+  "organization": null,
+  "comments": [
+    {
+      "id": 519502979219,
+      "type": "Comment",
+      "author_id": 367564935899,
+      "body": "Добрый день, коллеги. Ждем обратной связи по вопросу возврата заказа другой ТК. Напоминая содержание обращения: С возвратной перевозкой № 006415399 от 30.12.19 Курьером был забран заказ ТК Boxberry на имя Сидоров Дмитрий Геннадьевич №000041190696100001 Просим срочно вернуть данный заказ обратно на ПВЗ Калуга_29Возвратная накладная уже обработанна, а груза нашего, так и нет.",
+      "html_body": "<div class=\"zd-comment\" dir=\"auto\"><p dir=\"auto\">Добрый день, коллеги. Ждем обратной связи по вопросу возврата заказа другой ТК. Напоминая содержание обращения: С возвратной перевозкой № 006415399 от 30.12.19 Курьером был забран заказ ТК Boxberry на имя Сидоров Дмитрий Геннадьевич №000041190696100001 Просим срочно вернуть данный заказ обратно на ПВЗ Калуга_29Возвратная накладная уже обработанна, а груза нашего, так и нет.</p></div>",
+      "plain_body": "Добрый день, коллеги. Ждем обратной связи по вопросу возврата заказа другой ТК. Напоминая содержание обращения: С возвратной перевозкой № 006415399 от 30.12.19 Курьером был забран заказ ТК Boxberry на имя Сидоров Дмитрий Геннадьевич №000041190696100001 Просим срочно вернуть данный заказ обратно на ПВЗ Калуга_29Возвратная накладная уже обработанна, а груза нашего, так и нет.",
+      "public": true,
+      "attachments": [],
+      "audit_id": 519502979159,
+      "ticket_id": 167,
+      "via": {
+        "channel": "email",
+        "source": {
+          "from": {
+            "address": "matskevna@yandex.ru",
+            "name": "КАЛУГА_29",
+            "original_recipients": [
+              "matskevna@yandex.ru",
+              "support@pvz.zendesk.com"
+            ]
+          },
+          "to": {
+            "name": "OZON",
+            "address": "support@pvz.zendesk.com"
+          },
+          "rel": null
+        }
+      },
+      "metadata": {
+        "system": {
+          "message_id": "<7116201581425581@vla1-78135a9f092e.qloud-c.yandex.net>",
+          "client": "Yamail [ http://yandex.ru ] 5.0",
+          "raw_email_identifier": "9622497/8d569023-1b8e-405a-acf5-76799496c564.eml",
+          "json_email_identifier": "9622497/8d569023-1b8e-405a-acf5-76799496c564.json"
+        },
+        "custom": {},
+        "suspension_type_id": null
+      },
+      "created_at": "2020-02-11T12:53:04.000Z"
+    },
+    {
+      "id": 520900992739,
+      "type": "Comment",
+      "author_id": 366874783319,
+      "body": "Добрый день.\nНаправили информацию на уточнение. Ожидайте обратную связь.\n\nТехническая поддержка АПВЗ\nТел.: +7 (495) 225-23-92",
+      "html_body": "<div class=\"zd-comment\" dir=\"auto\">Добрый день.<br>Направили информацию на уточнение. Ожидайте обратную связь.&nbsp;<br>\n\n<span class=\"collapse-signature\"></span><div class=\"signature\"><p dir=\"auto\">Техническая поддержка АПВЗ<br>\nТел.:&nbsp;+7 (495) 225-23-92</p></div></div>",
+      "plain_body": "Добрый день.\nНаправили информацию на уточнение. Ожидайте обратную связь.&nbsp;\n\n\n  Техническая поддержка АПВЗ\n\nТел.:&nbsp;+7 (495) 225-23-92",
+      "public": true,
+      "attachments": [],
+      "audit_id": 520900992719,
+      "ticket_id": 167,
+      "via": {
+        "channel": "web",
+        "source": {
+          "from": {},
+          "to": {},
+          "rel": null
+        }
+      },
+      "metadata": {
+        "system": {
+          "client": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36",
+          "ip_address": "213.33.200.166",
+          "location": "Moscow, MOW, Russia",
+          "latitude": 55.7527,
+          "longitude": 37.6172
+        },
+        "custom": {}
+      },
+      "created_at": "2020-02-13T06:47:10.000Z"
+    },
+    {
+      "id": 520918349479,
+      "type": "Comment",
+      "author_id": 367564935899,
+      "body": "Добрый день. Когда будет решен этот вопрос и возвращен наш заказ\n\n\n\n\n\n13.02.2020, 09:47, \"Support (OZON)\" <support@pvz.zendesk.com>:",
+      "html_body": "<div class=\"zd-comment zd-comment-pre-styled\" dir=\"auto\"><div>Добрый день. Когда будет решен этот вопрос и возвращен наш заказ</div><div><br></div><div><br></div><div>13.02.2020, 09:47, \"Support (OZON)\" &lt;support@pvz.zendesk.com&gt;:</div></div>",
+      "plain_body": "Добрый день. Когда будет решен этот вопрос и возвращен наш заказ  \n  \n  13.02.2020, 09:47, \"Support (OZON)\" &lt;support@pvz.zendesk.com&gt;:",
+      "public": true,
+      "attachments": [],
+      "audit_id": 520918349419,
+      "ticket_id": 167,
+      "via": {
+        "channel": "email",
+        "source": {
+          "from": {
+            "address": "matskevna@yandex.ru",
+            "name": "КАЛУГА_29",
+            "original_recipients": [
+              "matskevna@yandex.ru",
+              "support+id167@pvz.zendesk.com"
+            ]
+          },
+          "to": {
+            "name": "OZON",
+            "address": "support+id167@pvz.zendesk.com"
+          },
+          "rel": null
+        }
+      },
+      "metadata": {
+        "system": {
+          "message_id": "<16455171581579569@sas1-3e14c71cfd86.qloud-c.yandex.net>",
+          "client": "Yamail [ http://yandex.ru ] 5.0",
+          "raw_email_identifier": "9622497/179fb4ae-6c4e-4502-b408-60809283bdb8.eml",
+          "json_email_identifier": "9622497/179fb4ae-6c4e-4502-b408-60809283bdb8.json"
+        },
+        "custom": {},
+        "suspension_type_id": null
+      },
+      "created_at": "2020-02-13T07:39:31.000Z"
+    },
+    {
+      "id": 521818283600,
+      "type": "Comment",
+      "author_id": 365129018280,
+      "body": "Добрый день, коллеги.\n\nЗапрос на склад сделан,как только придет подтверждение наличия заказа, мы вам сообщим.\n\nС уважением,\nВиктория Заводяная\n\nТехническая поддержка АПВЗ\nТел.: +7 (495) 225-23-92",
+      "html_body": "<div class=\"zd-comment\" dir=\"auto\">Добрый день, коллеги.<br><br>Запрос на склад сделан,как только придет подтверждение наличия заказа, мы вам сообщим.<br><br>С уважением,<br>Виктория Заводяная<br>\n\n<span class=\"collapse-signature\"></span><div class=\"signature\"><p dir=\"auto\">Техническая поддержка АПВЗ<br>\nТел.:&nbsp;+7 (495) 225-23-92</p></div></div>",
+      "plain_body": "Добрый день, коллеги.\n\nЗапрос на склад сделан,как только придет подтверждение наличия заказа, мы вам сообщим.\n\nС уважением,\nВиктория Заводяная\n\n\n  Техническая поддержка АПВЗ\n\nТел.:&nbsp;+7 (495) 225-23-92",
+      "public": true,
+      "attachments": [],
+      "audit_id": 521818283260,
+      "ticket_id": 167,
+      "via": {
+        "channel": "web",
+        "source": {
+          "from": {},
+          "to": {},
+          "rel": null
+        }
+      },
+      "metadata": {
+        "system": {
+          "client": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 OPR/66.0.3515.72",
+          "ip_address": "213.33.200.166",
+          "location": "Moscow, MOW, Russia",
+          "latitude": 55.7527,
+          "longitude": 37.6172
+        },
+        "custom": {}
+      },
+      "created_at": "2020-02-14T09:42:09.000Z"
+    }
+  ]
+}
